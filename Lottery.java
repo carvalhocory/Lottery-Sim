@@ -6,7 +6,7 @@ package lotterysim;
  *
  * @author Cory
  */
-public class ESignLiveLottery {
+public class Lottery {
 
     public static void main(String[] args) {
         AdminInterface admin = new AdminInterface();
